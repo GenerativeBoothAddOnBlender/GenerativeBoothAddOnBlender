@@ -1,4 +1,4 @@
-# ☝️INTRODUCTION
+# ☝️🤓INTRODUCTION
 Welcome to the generative Booth Design Add-On! This add-on is developed to enhance designers workflow in booth design by providing tools and features that could increase productivity in your design progress. 
 
 
