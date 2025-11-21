@@ -14,7 +14,7 @@ Welcome to the generative Booth Design Add-On! This add-on is developed to enhan
 Familiarity with Blender's interface and functionalities will help you get the most out of the add-on. 
 
 
-## What is it good for?
+## ✔️What is it good for?
 **📝Base and Sketch**
 
 Ideal for creating the foundational layout of booth designs quickly and productively. 
@@ -28,7 +28,7 @@ Helps in generating ideas and serves as a reference point during the design proc
 Provides inspiration through its generative capabilities, allowing designers to explore various options that are unimaginable at first.
 
 
-## What is it not good for?
+## ❌What is it not good for?
 
 **Prototyping**
 
